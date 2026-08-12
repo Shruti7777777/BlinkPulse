@@ -42,7 +42,7 @@ Solder,1,,,,,,,,,,,,,,4.61 USD,
 ,,,,,,,,,,,,,,,TOTAL COST,21 USD     (ALREADY HAVE 9.99 USD HARDWARE  GRANT JUST 11 USD NEEDED)
 
 
-<img width="1025" height="181" alt="image" src="https://github.com/user-attachments/assets/0cdbf429-e115-497f-9f12-b34e49e0c5e0" />
+
 
 I ALREADY HAVE PARTS FROM JLCPCB , BUT I NEED TO BUY BOM. 
 
