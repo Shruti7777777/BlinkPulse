@@ -1,4 +1,4 @@
-𝐁 𝐥 𝐢 𝐧 𝐤  𝐏 𝐮 𝐥 𝐬 𝐞
+𝐁 𝐥 𝐢 𝐧 𝐤    𝐏 𝐮 𝐥 𝐬 𝐞
 
 <img width="769" height="528" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/a97ca69d-981e-40ca-ab15-cd6520c948ae" />
 
