@@ -25,16 +25,17 @@ This project contains the schematic and PCB design for a Blinky Board. The circu
 ✦Bill of Materials (BOM) included
 ✦Files Included
 
-𝓒𝓸𝓶𝓹𝓸𝓷𝓮𝓷𝓽𝓼
+## Components
 
-╰┈➤ x13+ Red LEDs
-╰┈➤ x1 555 Timer IC
-╰┈➤ x1 10 μF Capacitor
-╰┈➤ x1 100k Variable Resistor
-╰┈➤ x1 10k Resistor
-╰┈➤ x1 330 ohm resistor
-╰┈➤ x1 1 Push Button
+╰┈➤ x13 Red LEDs  
+╰┈➤ x1 555 Timer IC  
+╰┈➤ x1 10 µF Capacitor  
+╰┈➤ x1 100k Variable Resistor  
+╰┈➤ x1 10k Resistor  
+╰┈➤ x1 330 Ω Resistor  
+╰┈➤ x1 Push Button  
 ╰┈➤ x1 9V Battery Holder Clip
+  
 <img width="736" height="529" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/9fd7bf00-211b-4f8d-af3a-357fdc680f18" />
 
 ## Bill of Materials (BOM)
