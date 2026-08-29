@@ -32,7 +32,6 @@ This project contains the schematic and PCB design for a Blinky Board. The circu
 ╰┈➤ x1 1 Push Button
 ╰┈➤ x1 9V Battery Holder Clip
 
-𝓑𝓲𝓵𝓵 𝓞𝓯 𝓜𝓪𝓽𝓮𝓻𝓲𝓪𝓵
 
 ## Bill of Materials (BOM)
 
@@ -42,8 +41,7 @@ This project contains the schematic and PCB design for a Blinky Board. The circu
 | 555 Timer | 1 | ICM7555 |
 | Capacitor | 1 | 10k |
 | Resistor | 2 | 330 ohm |
-| Button | 2 | — |
+| Button/Switch | 2 | Push Button Switch |
 | Battery | 1 | 9V |
 | Wire | 1 | 0.6 mm |
-| Solder | 1 | — |
-
+| Solder | 1 | Solder Wire |
