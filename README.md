@@ -1,11 +1,11 @@
-𝐁 𝐥 𝐢 𝐧 𝐤    𝐏 𝐮 𝐥 𝐬 𝐞
+𝙱𝚕𝚒𝚗𝚔 𝙿𝚞𝚕𝚜𝚎
 
 <img width="769" height="528" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/a97ca69d-981e-40ca-ab15-cd6520c948ae" />
 
 
 
 
-✿.｡.:* ☆:**:. Bʅιɳƙ Pυʅʂҽ .:**:.☆*.:｡.✿
+✿.:* ☆:**:. Bʅιɳƙ Pυʅʂҽ .:**:.☆*.:✿
 
 A simple LED blinking circuit designed using KiCad.
 <img width="606" height="529" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/29cab464-53ef-4069-8fd9-1e9b8465e6c6" />
