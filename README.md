@@ -2,7 +2,7 @@
 
 <img width="769" height="528" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/a97ca69d-981e-40ca-ab15-cd6520c948ae" />
 
-<img width="736" height="529" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/9fd7bf00-211b-4f8d-af3a-357fdc680f18" />
+
 
 
 ✿.｡.:* ☆:**:. Bʅιɳƙ Pυʅʂҽ .:**:.☆*.:｡.✿
@@ -35,7 +35,7 @@ This project contains the schematic and PCB design for a Blinky Board. The circu
 ╰┈➤ x1 330 ohm resistor
 ╰┈➤ x1 1 Push Button
 ╰┈➤ x1 9V Battery Holder Clip
-
+<img width="736" height="529" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/9fd7bf00-211b-4f8d-af3a-357fdc680f18" />
 
 ## Bill of Materials (BOM)
 
