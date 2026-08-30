@@ -1,9 +1,3 @@
-𝙱𝚕𝚒𝚗𝚔 𝙿𝚞𝚕𝚜𝚎
-
-<img width="769" height="528" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/a97ca69d-981e-40ca-ab15-cd6520c948ae" />
-
-
-
 
 ✿.:* ☆:**:. Bʅιɳƙ Pυʅʂҽ .:**:.☆*.:✿
 
@@ -51,8 +45,17 @@ This project contains the schematic and PCB design for a Blinky Board. The circu
 | Wire | 1 | 0.6 mm |
 | Solder | 1 | Solder Wire |
 
+𝓦𝓱𝔂 𝓘 𝓶𝓪𝓭𝓮 𝓽𝓱𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽
+
+Blink Pulse is a simple blinky board project created as part of a Hack Club hardware learning workshop. Through this project, I learned about basic electronic components, PCB design, and how a simple blinking circuit works using KiCad.
+
 𝓗𝓸𝔀 𝓘𝓽 𝓦𝓸𝓻𝓴𝓼
 
 The Blinky Board uses a 555 timer circuit to generate repeating electrical pulses. These pulses turn the LEDs ON and OFF repeatedly, creating a blinking effect. The resistor and capacitor help control the timing of the blinking, while the battery provides power to the circuit.
+
+𝓓𝓮𝓶𝓸 𝓿𝓲𝓭𝓮𝓸
+https://lapse.hackclub.com/timelapse/9uhOgwMm9iYm
+
+
 
 𝘈𝘶𝘵𝘩𝘰𝘳: 𝗦𝗵𝗿𝘂𝘁𝗶 𝗞𝘂𝗺𝗮𝗿𝗶 
