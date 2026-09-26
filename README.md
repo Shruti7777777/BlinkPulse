@@ -65,6 +65,14 @@ Blink Pulse is a simple blinky board project created as part of a Hack Club hard
 
 The Blinky Board uses a 555 timer circuit to generate repeating electrical pulses. These pulses turn the LEDs ON and OFF repeatedly, creating a blinking effect. The resistor and capacitor help control the timing of the blinking, while the battery provides power to the circuit.
 
+               𝗔𝘀𝘀𝗲𝗺𝗯𝗹𝘆 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 
+➽─ Place all the components on the PCB according to their labels and footprints.
+➽─ Solder the resistors, LEDs, capacitor, push button, potentiometer, and other components in their marked positions.
+➽─ Make sure the LED polarity and capacitor polarity are correct before soldering.
+➽─ Solder the ICM7555xB(555 timer) in its SOIC-8 footprint, matching pin 1 with the PCB marking.
+➽─Connect the required power supply to the board and test the circuit.
+➽─The LEDs should blink when the board is powered.
+
 𝓓𝓮𝓶𝓸 𝓿𝓲𝓭𝓮𝓸
 https://lapse.hackclub.com/timelapse/9uhOgwMm9iYm
 
